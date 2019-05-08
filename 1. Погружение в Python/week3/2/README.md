@@ -70,7 +70,7 @@ extra
 
 Пример входного файла :
 
-[cars.csv]()
+[cars.csv](https://d3c33hcgiwev3.cloudfront.net/_af3947bf3a1ba3333b0c891e7a8536fc_coursera_week3_cars.csv?Expires=1557273600&Signature=M3DJ8tiXHJnNBHAdwPI~Z-lA-FwH7dHjcrvjEHV2Hwm3Dqv8YuBJp2cVEZbVqB7UZ4NQwmlOldY3fUDMkQ15-~Z-5gRQvQDfdjDdBF1JFPzIHY8g8qGavBxU7XDgoenEEpIMYBN43wOaXOBoRD4E7bWZGet-cgNesyGVYM~nQXA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 ```python
 car_type;brand;passenger_seats_count;photo_file_name;body_whl;carrying;extra
 car;Nissan xTtrail;4;f1.jpeg;;2.5;
