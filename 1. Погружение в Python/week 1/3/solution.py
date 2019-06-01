@@ -1,6 +1,6 @@
 import sys
-if len(sys.argv) == 2:
-    if sys.argv[1].isnumeric():
-        var = int(sys.argv[1])
-        for i in range(var + 1):
-            print(" " * (var - i), "#" * i, sep="")
+
+num_steps = int(sys.argv[1])
+
+for i in range(num_steps):
+    print(" " * (num_steps - i - 1), "#" * (i + 1), sep="")
