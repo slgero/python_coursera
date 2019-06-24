@@ -1,0 +1,13 @@
+levels:
+  - !empty_map {}
+  - !special_map
+    rat: 5
+  - !special_map
+    rat: 10
+    knight: 5
+    shadow: 1
+  - !special_map
+    rat: 10
+    knight: 10
+    shadow: 5
+  - !random_map {}
